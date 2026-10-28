@@ -1,4 +1,4 @@
-# Hi, I'm Kulshresth Kumar Nagar 👋
+# Hi, I'm Kulshresth Nagar 👋
 
 🚀 **Technical Architect at Hexaware**
 
