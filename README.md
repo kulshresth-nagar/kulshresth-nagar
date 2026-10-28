@@ -1,15 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kulshresth Kumar Nagar 👋
 
-**kulshresth-nagar/kulshresth-nagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Technical Architect at Hexaware**
 
-Here are some ideas to get you started:
+💻 10+ years of experience designing and developing scalable enterprise applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Working with C#, .NET 10/9/8, ASP.NET Core, and Microservices
+- 🌱 Exploring Angular 21, React 19, Azure, Generative AI, and RAG
+- ☁️ Azure Cloud, Docker, Kubernetes, and CI/CD
+- 🏗️ Clean Architecture, SOLID, and Solution Design
+- 👥 Technical Leadership, Code Reviews, and Team Mentoring
+- ✍️ Tech Blog: [CODE Listener](https://codelistener.blogspot.com/)
+- 💼 [LinkedIn Profile](https://linkedin.com/in/kulshresth-nagar)
 
+### 🛠️ Tech Stack
+C# | .NET | ASP.NET Core | Angular | React | SQL Server | Azure | Microservices | Docker | Kubernetes | Generative AI
+
+**Architecting scalable solutions. Leading innovation. Building with AI.** 🚀
