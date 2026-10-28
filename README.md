@@ -1,12 +1,7 @@
-
 <div align="center">
-
-  <h1>Hi, I'm</h1>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Kulshresth+Kumar+Nagar+%F0%9F%91%8B" alt="Kulshresth Kumar Nagar" />
-
+<h1>Hi, I'm</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Kulshresth+Kumar+Nagar+%F0%9F%91%8B" alt="Kulshresth Kumar Nagar" />
 </div>
-
 
 🚀 **Technical Architect at Hexaware**
 
